@@ -1,1 +1,1 @@
-# heart-attack_prediction
+Heart-Attack prediciton project is done using machine learning. Many libraries are used such as sci-kit learn,pandas,numpy,matplotlib.Dataset were missing many value .so i replaced all the missing value with median value then using matplotlib data visulization is done.Using train_test_split is splited data in train and test data then I created a pipeline to calculate efficency of various different algorithms. Logistic Regression algorithm showed most efficency so finally i used that.Then i dumped best performing model into file using joblib.
